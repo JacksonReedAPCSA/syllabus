@@ -1,5 +1,4 @@
-# AP Computer Science Syllabus
+# AP Computer Science A
 
-Teacher: Alex Jacoby (alex.jacoby@dc.gov)  
-Website: http://tinyurl.com/jacobydc  
-[Woodrow Wilson High School](http://tinyurl.com/jacobydc)
+Teacher: Alex Jacoby (alex.jacoby@k12.dc.gov)  
+[Jackson-Reed High School](https://wilsonhs.org)
